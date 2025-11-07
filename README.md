@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frameworks <br>👯 I’m looking to collaborate on FDTeam<br>🤝 I’m looking for help with Web Development <br>🌱 I’m currently learning Angular <br>💬 Ask me about Web Page Design<br>
+🔭 I’m currently working on Frameworks <br>👯 I’m looking to collaborate on FDTeam<br>🤝 I’m looking for help with Web Development <br>🌱 I’m currently learning Angular <br>
 
 
 ## 🌐 Socials:
