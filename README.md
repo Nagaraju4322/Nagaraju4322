@@ -1,10 +1,13 @@
+<!-- ------------- HEADER ANIMATION ------------- -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+👋,+Welcome+to+my+Homepage;I'm+Nagaraju+;Full+Stack+Developer" alt="Typing Animation" />
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Hi.gif" width="35px" />
+  Hey There! Welcome to My GitHub 👨‍💻✨
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=2000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Frontend+Developer;Backend+Developer;Responsive+Design+Developer;Web+Developer;Tech+Learner+🚀" alt="Typing Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I'm+Nagaraju+Reddy;Frontend+Developer;Backend+Developer;Responsive+UI%2FUX+Designer;Full+Stack+Developer+in+Progress+🚀" />
 </h3>
+
 
 
 
