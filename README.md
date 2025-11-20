@@ -4,8 +4,10 @@
   Hey There! Welcome to My GitHub 👨‍💻✨
 </h1>
 
+<h2 align="center">I'm <b>Nagaraju Vadde</b></h2>
+
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I'm+Nagaraju+Reddy;Frontend+Developer;Backend+Developer;Responsive+UI%2FUX+Designer;Full+Stack+Developer+in+Progress+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Backend+Developer;Responsive+Design+Developer;UI%2FUX+Designer;Full+Stack+Developer" />
 </h3>
 
 
