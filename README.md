@@ -1,31 +1,86 @@
-# 💫 About Me:
-🔭 I’m currently working on Frameworks <br>👯 I’m looking to collaborate on FDTeam<br>🤝 I’m looking for help with Web Development <br>🌱 I’m currently learning Angular <br>
+<!-- ------------- HEADER ANIMATION ------------- -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Hi.gif" width="35px" />
+  Hey There! Welcome to My GitHub 👨‍💻✨
+</h1>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mr_introvert_nj) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nagaraju4322&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nagaraju4322&theme=ocean_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraju4322&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nagaraju4322&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nagaraju4322&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+<!-- ------------- ROLE TYPING ANIMATION ------------- -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I'm+Nagaraju+Reddy;Frontend+Developer;Backend+Developer;Responsive+UI%2FUX+Designer;Full+Stack+Developer+in+Progress+🚀" />
+</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nagaraju4322&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---6
-Nagaraju4322/Nagaraju4322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- ------------- ABOUT ME ------------- -->
+## ✨ About Me  
+🔭 Currently working on **Frameworks & Web Apps**  
+🤝 Open to collaborate on **Frontend, Backend & Creative UI Projects**  
+🌱 Learning **Angular** to become Full Stack  
+🔥 Passionate about **Clean UI, Animations & Modern Web Design**  
+⚡ Fun Fact: I like coding late nights 🌙  
+
+---
+
+<!-- ------------- SOCIALS ------------- -->
+## 🌐 Connect With Me  
+<p align="left">
+  <a href="https://instagram.com/Mr_introvert_nj">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+  </a>
+  <a href="https://github.com/Nagaraju4322">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+</p>
+
+---
+
+<!-- ------------- TECH STACK ------------- -->
+## 💻 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,mysql,angular,aws,github,bootstrap,figma" />
+</p>
+
+---
+
+<!-- ------------- STATS ------------- -->
+## 📊 GitHub Stats  
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nagaraju4322&theme=react&hide_border=false&show_icons=true" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagaraju4322&theme=react&hide_border=false" height="170" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraju4322&theme=react&hide_border=false&layout=compact" height="170" />
+
+</div>
+
+---
+
+<!-- ------------- TROPHIES ------------- -->
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nagaraju4322&theme=dracula&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+<!-- ------------- QUOTE ------------- -->
+## ✍️ Inspiring Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</p>
+
+---
+
+<!-- ------------- VIEWS ------------- -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Nagaraju4322&label=Profile%20Views&icon=0&color=6" />
+</p>
+
+---
+
+<p align="center">
+  <b>💙 Thanks for visiting! Have a great day 🚀</b>
+</p>
