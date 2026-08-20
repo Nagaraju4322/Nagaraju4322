@@ -12,7 +12,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/vaddenagaraju-47ba23321/">
+<a href="https://www.linkedin.com/in/vadde-nagaraju-47ba23321">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
