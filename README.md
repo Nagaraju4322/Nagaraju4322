@@ -114,7 +114,7 @@ My technical background includes **Core Java, JSP, JEE, Servlets, Spring, Spring
 ```text
 Frontend Development
         ↓
-HTML • CSS • JavaScript • Bootstrap
+HTML • CSS • JavaScript 
         ↓
 Backend Development
         ↓
