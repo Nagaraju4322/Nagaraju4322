@@ -8,6 +8,15 @@
 
 ### Java Full Stack Developer | Backend Developer | Web Developer
 
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nagaraju4322&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Backend+Developer;Web+Application+Developer;Java+%7C+Spring+Boot+%7C+MySQL;Building+Reliable+Web+Applications" />
 
 <br>
